@@ -6,4 +6,4 @@ Install it and drag the doorless file into your chattrigger modules!
 
 
 
-USE AT YOUR OWN RISK, THIS BREAKES HYPIXEL'S TOS
+USE AT YOUR OWN RISK, THIS BREAKS HYPIXEL'S TOS
