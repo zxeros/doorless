@@ -1,5 +1,7 @@
 # Doorless
 
+[Join the Discord!](https://discord.gg/hypixel)
+
 **Doorless** is a simple Skyblock dungeon mod that lets you pearl through doors.
 
 **Features**
